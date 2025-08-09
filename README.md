@@ -75,3 +75,10 @@ This repository is your complete roadmap to learning **Machine Learning** using 
 
 ## 📂 Project Structure
 
+> 🎥 **Learning Resource:** [Machine Learning From Zero to Hero – YouTube Playlist](https://youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I&si=QvxV0nsfq--GSoi4)  
+> This playlist is the main video guide I follow along while building this project.
+
+
+
+
+
